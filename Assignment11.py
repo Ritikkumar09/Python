@@ -1,13 +1,14 @@
 # #     Loops
 
 # #1. Write a python script to calculate sum of first N natural numbers
-# n=int(input("enter your no. "))
-# r1=range(n)
-# s=0
-# for i in r1:
-#     s=s+(i+1)
-# print(s,end=' ')
-# print()
+n=int(input("enter your no. "))
+r1=range(n)
+s=0
+for i in r1:
+    s=s+(i+1)
+print(s,end=' ')
+print()
+print()
 # # 2. Write a python script to calculate sum of squares of first N natural numbers
 # n=int(input("enter your no "))
 # s=0
